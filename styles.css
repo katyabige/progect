@@ -1,0 +1,125 @@
+body {
+    font-family: sans-serif;
+}
+header img{
+    width: 150px;
+    padding-left: 15px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    width: 1300px;
+    height: 50px;
+    padding: 15px 20px 15px 30px;
+}
+.pyps{
+    text-decoration: none;
+    padding-left: 110px;
+    padding-top: 60px;
+    padding-right: 100px;
+    text-align: center;
+    color: white;
+}
+.ee{
+    display: flex;
+    justify-content: center;
+    background: url(https://i.ytimg.com/vi/H2LaRCieieM/maxresdefault.jpg);
+    padding: 185px 100px 500px 80px ;
+
+}
+.hh{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Lora' serif;
+}
+span {
+    background-color:  rgba(0, 0, 0, 0.7);
+}
+.ff{
+    width: 200px;
+    background: url(https://cdn.shazoo.ru/529398_Jod4YL4dNe_genshin_impact_mondstadt.jpg);
+    padding-right: 1150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.ll{
+    width: 200px;
+    background: url(https://sportishka.com/uploads/posts/2022-11/1667486961_4-sportishka-com-p-skali-li-yue-krasivo-5.jpg) ;
+    padding-right: 1150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.tt{
+    width: 200px;
+    background: url(https://live.staticflickr.com/65535/51297950090_a3f7848ad6_h.jpg);
+    padding-right: 1150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.pp{
+    width: 200px;
+    background: url(https://gamemag.ru/images/imagemanager/cache/34/6c05/346c05_Genshin-Impact-Sumeru.jpg);
+    padding-right: 1150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.kk{
+    width: 200px;
+    background: url(https://cdn2.unrealengine.com/05-3840x2160-79d2771ee1a7.jpg);
+    padding-right: 1150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.geng{
+  
+    display: flex;
+    justify-content: end;
+
+
+}
+.jj {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: monospace;
+    padding: 30px 60px 60px 90px;
+    background:url(https://i.pinimg.com/564x/78/12/c5/7812c5cf832e837d156bd14e351fda11.jpg);
+}
+.pers{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    background:rgb(160, 102, 102);
+    padding: 50px;
+}
+.klas{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 30px;
+    background: url(https://i.pinimg.com/564x/13/82/38/138238a30068abf30a3f0edc926a9b8a.jpg);
+    padding: 50px;
+}
+footer{
+    background: gray;
+    font-size: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+}
+footer img{
+    width: 500px;
+    display: flex;
+    justify-content: end;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer p{
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+}
